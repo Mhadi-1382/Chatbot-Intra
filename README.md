@@ -10,6 +10,8 @@ Intra is a talking chat bot, Intra can talk to you or greet you, and I can also 
 ## Installation
 Using the command **pip install package** Install the required modules. (Of course, some modules are pre-installed and do not need to be installed.)
 
+> **Sample: pip install wikipedia**
+
 ## Core Dependencies
 - webbrowser
 - wikipedia
